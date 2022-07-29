@@ -1,0 +1,7 @@
+git init
+git remote add origin "https:---.git"
+git remote -v
+git add .
+ git commit -m "my commit"
+git branch -M main
+git push origin main --force
